@@ -18,14 +18,17 @@ header {
 	background: #f0f0f0;
 	width: 100%;
 }
+
 .logo img {
 	display: block;
+        padding: 1em;
 }
 
 /* busca */
 .busca {
 	overflow: hidden; /* clearfix */
 }
+
 	.busca input {
 		border: 1px solid #CCC;
 		border-bottom-color: #aaa;
@@ -58,6 +61,7 @@ header {
 
 		float: left;
 	}
+
 		.busca button:hover {
 			color: #0669de;
 		}
