@@ -41,7 +41,7 @@ img {
 .barra-nav,
 .menu-principal {
     display: inline-block;
-    vertical-align: middle;
+    Text-align: center;
 }
 
 .menu-principal li {
