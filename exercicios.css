@@ -1,20 +1,23 @@
+.secao {
+    Width: 100%;
+}
 
 @media (min-width: 600px) {
     .secao {
         float: left;
-        width: 100%;
+        width: 49%;
     }
      html {
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
 }
 @media (min-width: 1000px) {
     html {
-        font-size: 1.2em;
+        font-size: 1.6em;
     }
     .secao {
         float: left;
-        width: 50%;
+        width: 32%;
     }
 }
 
