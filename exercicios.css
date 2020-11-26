@@ -1,7 +1,7 @@
 .secao {
     margin: 0 auto;
 }
-@media (max-width: 600px) {
+@media (min-width: 600px) {
     html {
         font-size: 1.2em;
     }
@@ -10,7 +10,7 @@
         width: 32%;
     }
 }
-@media (max-width: 1000px) {
+@media (min-width: 1000px) {
     .secao {
         float: left;
         width: 48%;
