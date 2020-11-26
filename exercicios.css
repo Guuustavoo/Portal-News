@@ -1,4 +1,6 @@
-
+.section {
+    width: 32%
+}
 @media (min-width: 600px) {
     html {
         font-size: 1.2em;
@@ -11,7 +13,7 @@
 @media (min-width: 1000px) {
     .secao {
         float: left;
-        width: 64%;
+        width: 43%;
     }
      html {
         font-size: 1.5em;
