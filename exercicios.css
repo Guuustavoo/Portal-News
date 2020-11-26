@@ -1,6 +1,7 @@
 .secao {
-    margin: 2em auto;
-    width: 95%;
+    margin: 1em auto;
+    width: 96%;
+    text-align: center;
 }
 
 @media (min-width: 600px) {
@@ -9,13 +10,13 @@
     }
     .secao {
         float: left;
-        width: 32.23%;
+        width: 32%;
     }
 }
 @media (min-width: 1000px) {
     .secao {
         float: left;
-        width: 32.23%;
+        width: 64%;
     }
      html {
         font-size: 1.5em;
