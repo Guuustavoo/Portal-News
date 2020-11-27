@@ -26,6 +26,7 @@ header {
 
 /* busca */
 .busca {
+	margin: 1em;
 	overflow: hidden; /* clearfix */
 }
 
@@ -78,6 +79,7 @@ header {
 }
 
 .menu-principal {
+	margin: 1em;
 	font-weight: bold;
 	list-style-type: none;
 	}
@@ -91,7 +93,7 @@ header {
 		text-transform: lowercase;
 	}
 		.menu-principal a:hover {
-			opacity: 0.8;
+			opacity: 0.7;
 		}
 
 
