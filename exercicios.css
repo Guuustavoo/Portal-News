@@ -7,16 +7,18 @@
     .secao {
         float: left;
         width: 48%;
+        padding: 0.5em;
     }
      html {
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 }
 @media (min-width: 1000px) {
     html {
-        font-size: 1.6em;
+        font-size: 1.4em;
     }
     .secao {
+        padding: 0.5em;
         float: left;
         width: 31%;
     }
