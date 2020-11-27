@@ -10,12 +10,12 @@
         padding: 0.3em;
     }
      html {
-        font-size: 1.2em;
+        font-size: 1.1em;
     }
 }
 @media (min-width: 1000px) {
     html {
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
     .secao {
         padding: 0.4em;
