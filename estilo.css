@@ -26,7 +26,6 @@ header {
 
 /* busca */
 .busca {
-	margin: 1em;
 	overflow: hidden; /* clearfix */
 }
 
